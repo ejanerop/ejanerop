@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ejanerop&theme=react)](https://git.io/streak-stats)
   
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mauricio1802&label=Views&color=lightgrey&style=flat-square" alt="mauricio1802" /> 
+<img src="https://komarev.com/ghpvc/?username=ejanerop&label=Views&color=lightgrey&style=flat-square" alt="ejanerop" /> 
 </p>
